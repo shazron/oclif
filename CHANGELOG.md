@@ -1,3 +1,9 @@
+## [4.23.28](https://github.com/oclif/oclif/compare/4.23.27...4.23.28) (2026-07-20)
+
+### Bug Fixes
+
+- pinned certain tests to TS6 (W-23513992) ([#2076](https://github.com/oclif/oclif/issues/2076)) ([536f8cd](https://github.com/oclif/oclif/commit/536f8cd361eb8389f21d01c5804af76d914851c2))
+
 ## [4.23.27](https://github.com/oclif/oclif/compare/4.23.26...4.23.27) (2026-07-06)
 
 ### Bug Fixes
